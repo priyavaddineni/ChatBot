@@ -1,0 +1,11 @@
+jupyterlab
+requests
+matplotlib
+nltk
+numpy
+beautifulsoup4
+sklearn
+torch
+regex
+json
+bleu
